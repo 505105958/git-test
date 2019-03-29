@@ -2,6 +2,7 @@ package com.itheima;
 
 public class Git {
     public static void main(String[] args) {
+        int in = 1000;
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
