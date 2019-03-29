@@ -7,5 +7,10 @@ public class Git {
         System.out.println("hello,git");
 
     }
+
+    public void test01(){
+        int i =1;
+        System.out.println(i);
+    }
 }
 
